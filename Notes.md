@@ -1,0 +1,7 @@
+| Lessons | Topics | Revised notes |
+|---|---|---|
+| 1–4 | Outcomes, sample spaces, probability weights, complements, overlapping events, and choosing the denominator for a conditional probability | [01-events-and-conditioning.md](https://chatgpt.com/library?file_id=libfile_b79d4c3af9b08191af583a671cd0f7cc&account_id=personal) |
+| 5–8 | Multiplication rule, law of total probability, Bayes’ theorem, odds, independence, and why pooling groups can change a rate | [02-bayes-odds-and-independence.md](https://chatgpt.com/library?file_id=libfile_51adce0060c48191bf558693a24b24be&account_id=personal) |
+| 9–13 | Random variables, probability mass functions, cumulative distributions, percentiles, expected value, variance, and standard deviation | [03-random-variables-to-variance.md](https://chatgpt.com/library?file_id=libfile_958cd7cb31f48191871d03d9c0f0d7f0&account_id=personal) |
+| 14–15 | Mean squared error, calibration, minimizing a score, conditional means, and comparing predictions across unequal groups | [04-calibration-and-prediction.md](https://chatgpt.com/library?file_id=libfile_b65f02af01088191ab36053776b615df&account_id=personal) |
+| 16 | Covariance, centering paired measurements, interpreting the sign and units, and how zero covariance can coexist with dependence | [05-covariance.md](https://chatgpt.com/library?file_id=libfile_91536d57e42c8191ba0de5fc4cca6c0d&account_id=personal) |
